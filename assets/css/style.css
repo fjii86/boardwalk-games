@@ -95,6 +95,14 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events */
+
+#student {
+    color: white;
+    background-color: var(--highlight-color);
+    width: 100%;
+}
+
 /* Game library cards */
 
 #new-games .card,
